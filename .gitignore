@@ -1,0 +1,15 @@
+# folder
+.vscode
+LR
+superRes
+old
+
+# file type
+*.svg
+*.pyc
+*.pth
+*.t7
+*.caffemodel
+*.mat
+*.npy
+
