@@ -1,7 +1,7 @@
 torch
 torchvision
 torchaudio
-opencv-python-headless
+opencv-contrib-python-headless
 glob2
 streamlit
 pillow
