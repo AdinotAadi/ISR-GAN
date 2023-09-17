@@ -5,6 +5,7 @@ superRes
 old
 
 # file type
+*.zip
 *.svg
 *.pyc
 *.pth
