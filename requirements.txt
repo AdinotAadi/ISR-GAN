@@ -1,7 +1,7 @@
 torch
 torchvision
 torchaudio
-opencv-contrib-python-headless
+opencv-python-headless==4.5.4.60
 glob2
 streamlit
 pillow
