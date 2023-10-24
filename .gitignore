@@ -3,6 +3,7 @@
 LR
 superRes
 old
+model
 
 # file type
 *.zip
